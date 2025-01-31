@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... gsdcterryterry@gmail.com
 - 😄 Pronouns: ... he him
-- ⚡ Fun fact: ...we are living if you are reading this right now
+- ⚡ Fun fact: ...you are maybe living if you are reading this right now
 
 <!---
 peoplehello/peoplehello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
